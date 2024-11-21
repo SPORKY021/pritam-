@@ -1,6 +1,6 @@
 \*Name- pritam nagargoje
 UIN-241P060  Roll No.-54
-Title - wap to find all the prime numbers between two numbers using functions  */
+Title - wap to find factorial of a number using iterative and recursive functions*/
 
 
 #include <stdio.h>
